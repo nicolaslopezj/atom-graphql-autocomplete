@@ -1,5 +1,9 @@
 # GraphQL Autocomplete Atom
 
+```sh
+graphql-autocomplete
+```
+
 Autocomplete and lint from GraphQL endpoint in atom.
 
 ![](resources/example.png)
