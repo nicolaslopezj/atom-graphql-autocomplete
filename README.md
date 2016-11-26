@@ -4,7 +4,7 @@
 graphql-autocomplete
 ```
 
-Autocomplete and lint from GraphQL endpoint in atom.
+Autocomplete and lint from a GraphQL endpoint in atom.
 
 ![](resources/example.png)
 
