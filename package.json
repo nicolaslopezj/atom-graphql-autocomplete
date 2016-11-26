@@ -1,0 +1,35 @@
+{
+  "name": "graphql-autocomplete",
+  "main": "./lib/graphql-autocomplete",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/graphql-autocomplete",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "codemirror-graphql": "^0.5.8",
+    "fs-plus": "^2.3.0",
+    "graphql": "^0.8.2",
+    "underscore": "^1.8.3"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getCompletionProvider"
+      }
+    },
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
+      }
+    }
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.11.0",
+    "standard": "*"
+  }
+}

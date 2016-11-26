@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle graphql-autocomplete",
+        "command": "graphql-autocomplete:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "graphql-autocomplete",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "graphql-autocomplete:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
