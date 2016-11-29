@@ -1,3 +1,7 @@
+## 0.2.3
+
+* Improve query finding algorithm.
+
 ## 0.2.2
 
 * Fix getQueriesInFile when there are others ``` ` ``` in the file.
