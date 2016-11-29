@@ -1,3 +1,7 @@
+## 0.3.0
+
+* Add options to disable some errors.
+
 ## 0.2.3
 
 * Improve query finding algorithm.
