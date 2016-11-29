@@ -1,6 +1,10 @@
-## 0.1.2
+## 0.2.2
 
 * Fix getQueriesInFile when there are others ``` ` ``` in the file.
+
+## 0.2.0
+
+- Use .graphqlrc.
 
 ## 0.1.1
 
