@@ -2,7 +2,7 @@
   "name": "graphql-autocomplete",
   "main": "./lib/graphql-autocomplete",
   "version": "0.2.0",
-  "description": "A short description of your package",
+  "description": "Autocomplete and lint from a GraphQL endpoint in atom",
   "keywords": [],
   "repository": "https://github.com/nicolaslopezj/atom-graphql-autocomplete",
   "license": "MIT",
