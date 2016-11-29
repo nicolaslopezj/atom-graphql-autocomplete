@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Fix getQueriesInFile when there are others ``` ` ``` in the file.
+
 ## 0.1.1
 
 * Don't pass type to snippets
