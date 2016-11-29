@@ -10,12 +10,14 @@ Autocomplete and lint from a GraphQL endpoint in atom.
 
 ### Instructions
 
-- Create a ```.gqlautocompleterc``` file in the root of your project
+- Create a ```.graphqlrc``` file in the root of your project
 
 - Add the ```endpoint```:
 
 ```json
 {
-  "endpoint": "http://localhost:3000/graphql"
+  "request": {
+    "url": "http://localhost:3000/graphql"
+  }
 }
 ```
