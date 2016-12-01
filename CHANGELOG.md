@@ -1,3 +1,7 @@
+## 0.3.1
+
+* Fix crash bug when opening tags. Issue #1.
+
 ## 0.3.0
 
 * Add options to disable some errors.
