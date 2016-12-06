@@ -1,5 +1,9 @@
 ## 0.3.1
 
+* Add more priority to suggestions.
+
+## 0.3.1
+
 * Fix crash bug when opening tags. Issue #1.
 
 ## 0.3.0
