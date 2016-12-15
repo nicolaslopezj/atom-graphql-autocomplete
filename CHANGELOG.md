@@ -1,4 +1,8 @@
-## 0.3.1
+## 0.3.3
+
+* Add option to disable unkown fragment error.
+
+## 0.3.2
 
 * Add more priority to suggestions.
 
