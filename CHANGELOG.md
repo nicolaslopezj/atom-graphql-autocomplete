@@ -1,6 +1,6 @@
 ## 0.3.3
 
-* Add option to disable unkown fragment error.
+* Add option to disable unknown fragment error.
 
 ## 0.3.2
 
