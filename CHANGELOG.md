@@ -1,3 +1,7 @@
+## 0.3.5
+
+* Fix crash when writing invalidchar.
+
 ## 0.3.3
 
 * Add option to disable unknown fragment error.
