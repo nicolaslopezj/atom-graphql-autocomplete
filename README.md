@@ -22,7 +22,7 @@ Autocomplete and lint from a GraphQL endpoint or static JSON introspection query
 }
 ```
 
-- For using a static file, add the `file path`:
+- For using a static file, add the `file path` (can be relative to the project or the fully-qualified path):
 
 ```json
 {
