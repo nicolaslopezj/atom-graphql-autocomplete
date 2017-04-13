@@ -1,6 +1,10 @@
+## 0.4.1
+
+* Improve support for apollo with fragments.
+
 ## 0.3.5
 
-* Fix crash when writing invalidchar.
+* Fix crash when writing ```invalidchar```.
 
 ## 0.3.3
 
