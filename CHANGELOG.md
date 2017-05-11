@@ -1,3 +1,9 @@
+## 1.0.0
+
+* Stop using codemirror
+* Use graphql-language-service-interface
+* Fix a lot of error while getting snippets
+
 ## 0.4.1
 
 * Improve support for apollo with fragments.

@@ -1,7 +1,7 @@
 {
   "name": "graphql-autocomplete",
   "main": "./lib/graphql-autocomplete",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "description": "Autocomplete and lint from a GraphQL endpoint in atom",
   "keywords": [],
   "repository": "https://github.com/nicolaslopezj/atom-graphql-autocomplete",
@@ -10,9 +10,9 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "codemirror-graphql": "^0.5.8",
-    "fs-plus": "^2.3.0",
-    "graphql": "^0.8.2",
+    "fs-plus": "^3.0.0",
+    "graphql": "^0.9.6",
+    "graphql-language-service-interface": "^0.0.10",
     "underscore": "^1.8.3"
   },
   "providedServices": {
@@ -28,8 +28,8 @@
     }
   },
   "devDependencies": {
-    "babel-eslint": "^7.1.0",
-    "eslint": "^3.11.0",
-    "standard": "*"
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "standard": "^10.0.2"
   }
 }
