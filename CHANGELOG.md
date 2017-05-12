@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Fix support for snippets and queries with apollo fragments
+
 ## 1.0.0
 
 * Stop using codemirror
