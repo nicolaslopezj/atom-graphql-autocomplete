@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Improve error linter with apollo fragments
+
 ## 1.0.2
 
 * Fix support for snippets and queries with apollo fragments
