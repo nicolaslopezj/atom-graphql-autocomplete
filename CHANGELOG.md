@@ -1,3 +1,7 @@
+## 1.1.1
+
+* Fix non appearing snippets
+
 ## 1.1.0
 
 * Automatic including of function parameters

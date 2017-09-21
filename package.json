@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "fs-plus": "^3.0.1",
-    "graphql": "^0.11.3",
+    "graphql": "0.10",
     "graphql-language-service-interface": "^0.1.13",
     "underscore": "^1.8.3"
   },
@@ -28,7 +28,7 @@
     }
   },
   "devDependencies": {
-    "eslint": "^4.6.1",
+    "eslint": "^4.7.1",
     "eslint-config-orionsoft": "^1.2.1"
   }
 }
