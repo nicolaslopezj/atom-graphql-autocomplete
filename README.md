@@ -10,14 +10,27 @@ Autocomplete and lint from a GraphQL endpoint or static JSON introspection query
 
 ### Instructions
 
-- Create a ```.graphqlrc``` file in the root of your project
+- Create a `.graphqlrc` file in the root of your project
 
-- For querying against a live endpoint, add the ```endpoint```:
+- For querying against a live endpoint, add the `endpoint`:
 
 ```json
 {
   "request": {
     "url": "http://localhost:3000/graphql"
+  }
+}
+```
+
+- Adding headers for ex authentication:
+
+```
+{
+  "request": {
+    "url": "http://localhost:8082/v1alpha1/graphql",
+    "headers": {
+      "Authorization": "Bearer <token>"
+    }
   }
 }
 ```
