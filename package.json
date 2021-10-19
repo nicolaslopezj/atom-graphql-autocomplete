@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "fs-plus": "^3.1.1",
-    "graphql": "14.2.1",
-    "graphql-language-service-interface": "^2.0.0",
+    "graphql": "15.6.1",
+    "graphql-language-service-interface": "^2.8.4",
+    "lodash": "^4.17.21",
     "underscore": "^1.9.1"
   },
   "providedServices": {
